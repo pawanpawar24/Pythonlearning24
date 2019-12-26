@@ -1,0 +1,5 @@
+leap = int(input("enter year:\t"))
+if (leap % 4) == 0:
+    print("this is leap year". format(leap))
+else:
+    print("this is not a leap year". format(leap))
