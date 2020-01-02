@@ -1,0 +1,6 @@
+def printinfo(name,age):
+    "this is calling pass"
+    print("name",name)
+    print("age",age)
+    return
+printinfo(age=50, name="miki")
