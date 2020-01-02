@@ -1,0 +1,6 @@
+def printme(str):
+    "this print passed statement in the function"
+    print(str)
+    return
+print("I'm first call to user defined function")
+print("Again called second call to the same")
